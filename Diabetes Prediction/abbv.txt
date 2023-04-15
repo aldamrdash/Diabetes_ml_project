@@ -1,0 +1,17 @@
+Pregnancies: This attribute represents the number of times a patient has been pregnant. It can be an important predictor of diabetes risk, as women who have had multiple pregnancies may be at higher risk.
+
+Glucose: This attribute represents the patient's fasting blood glucose level, measured in milligrams per deciliter (mg/dL). It is a key indicator of diabetes risk, as high glucose levels can indicate impaired glucose tolerance or insulin resistance.
+
+BloodPressure: This attribute represents the patient's systolic blood pressure, measured in millimeters of mercury (mmHg). High blood pressure can be a risk factor for diabetes, as it can damage blood vessels and impair insulin sensitivity.
+
+SkinThickness: This attribute represents the thickness of the patient's skinfold at the triceps, measured in millimeters. While skin thickness is not directly related to diabetes risk, it can be a useful predictor of insulin resistance.
+
+Insulin: This attribute represents the patient's serum insulin level, measured in microunits per milliliter (μU/mL). High insulin levels can be a sign of insulin resistance, which is a key risk factor for diabetes.
+
+BMI: This attribute represents the patient's body mass index, calculated as weight in kilograms divided by height in meters squared. Obesity is a major risk factor for diabetes, and BMI is a useful measure of overall body fatness.
+
+DiabetesPedigreeFunction: This attribute represents the patient's family history of diabetes, calculated as a function of the patient's relatives who have diabetes. A family history of diabetes can be a strong predictor of diabetes risk.
+
+Age: This attribute represents the patient's age in years. Age is an important predictor of diabetes risk, as older individuals are generally at higher risk.
+
+Outcome: This attribute represents whether or not the patient has been diagnosed with diabetes (1 if yes, 0 if no). This is the target variable that the machine learning model will be trained to predict.
